@@ -2,4 +2,4 @@
 
 Preview: 
 <br>
-<img src="https://github.com/user-attachments/assets/f5c1276e-6dd6-4acc-a990-fc12e03daa85" width = "600" height = "270" />
+<img src="https://github.com/user-attachments/assets/e423b903-c7d5-4d19-926b-6a174670fe3e" width = "600" height = "270" />
